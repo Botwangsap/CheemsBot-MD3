@@ -25,11 +25,11 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 //aumto functioner
-global.autoTyping = true //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
 global.autoReadAll = true // auto reading in all pchat gc and status (true to on, false to off)
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoRecord = true //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //documents variants
@@ -41,26 +41,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6285822347348'] //ur owner number
-global.ownername = "ArullOfc"
-global.ytname = "YT:ARULL OFC " //ur yt chanel name
+global.owner = ['6281998425782'] //ur owner number
+global.ownername = "AnggaKzරධ"
+global.ytname = "https://instagram.com/anggatzi123 " //ur yt chanel name
 global.socialm = "GitHub: Warikrr" //ur github or insta name
 global.location = "Indonesia, Kalimantan Selatan, Kotabaru" //ur location
 
 //bot bombdy
-global.botname = "ArullBotzMD" //ur bot name
-global.websitex = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //ur website
+global.botname = "Lisabotz-MD🍭❤" //ur bot name
+global.websitex = "https://instagram.com/anggatzi123" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/eFNTvNt.mp4' } //gif and video menu
-global.packname = "Sticker by"
-global.author = "ArullOfc"
+global.packname = "Lisabotz-MD🍭❤"
+global.author = "AnggaKzරධ"
 global.themeemoji = "🐶"
 global.reactmoji = "😎"
-global.ownertag = ['ArullOfc'] //ur owner tag
-global.ownernummenu = ['6285822347348'] //ur owner number in menu and all
-global.watermark = "ArullBotzMD" //ur watermark
-global.botscript = "https://youtu.be/Gr6yuCbSGTI"
-global.linkz1 = "https://youtu.be/xpd09WhxGA8"
-global.linkz2 = "https://youtu.be/xpd09WhxGA8"
+global.ownertag = ['AnggaKzරධ'] //ur owner tag
+global.ownernummenu = ['6281998425782'] //ur owner number in menu and all
+global.watermark = "Lisabotz-MD🍭❤" //ur watermark
+global.botscript = "https://instagram.com/anggatzi123"
+global.linkz1 = "https://instagram.com/anggatzi123"
+global.linkz2 = "https://instagram.com/anggatzi123"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -110,7 +110,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 100,
     monayawal: 1000
 }
    global.rpg = {
