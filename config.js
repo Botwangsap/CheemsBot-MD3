@@ -63,10 +63,10 @@ global.linkz1 = "https://instagram.com/anggatzi123"
 global.linkz2 = "https://instagram.com/anggatzi123"
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("./XeonMedia/theme/-6118506948870647934_120.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./XeonMedia/theme/-6118506948870647934_120.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/-6118506948870647934_120.jpg") //ur error pic
+global.thumb = fs.readFileSync("./XeonMedia/theme/-6118506948870647934_120.jpg") //ur thumb pic
 
 //database
 global.ntilinkytvid = []
